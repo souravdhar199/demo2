@@ -3,6 +3,7 @@ import os
 
 
 app = flask.Flask(__name__)
+print("wow this app will ")
 
 
 @app.route("/")
